@@ -37,6 +37,17 @@ body {
 	transition: background .2s linear;
 }
 
+.btn_next{
+	padding: 10px 20px;
+	margin-left: 155px;
+	border: none;
+	background-color: #FFFF00;
+	border-radius: 10px;
+	color: #fff;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+
 .btn:hover {
 	background: lightgreen;
 }
